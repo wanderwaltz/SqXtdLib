@@ -31,3 +31,4 @@
 # Debug files
 *.dSYM/
 SqXtdLib/SqXtdLib.xcodeproj/xcuserdata
+Vendor/Squirrel/Mac/Squirrel/Squirrel.xcodeproj/xcuserdata
